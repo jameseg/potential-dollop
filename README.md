@@ -1,5 +1,3 @@
-# potential-dollop
-
 ## Set your Brave Browser on Mac to open in private mode by default
 
 1. `mkdir ~/scripts`
